@@ -102,13 +102,15 @@ The model uses a simple neural network with:
 - Hidden layers: 16 and 8 neurons with ReLU activation
 - Output layer: 1 neuron with sigmoid activation for binary classification
 
+<img src="https://i.postimg.cc/1mWSGKJk/Screenshot-from-2025-09-15-03-05-04.png" />
+
+
 The synthetic dataset is generated with a logical pattern:
 - Students who study more than 5 hours
 - AND sleep more than 6 hours
 - AND have a combined score (study + 0.5*sleep) > 9
 - Are more likely to pass (with some noise added for realism)
 
-<img src="https://i.postimg.cc/1mWSGKJk/Screenshot-from-2025-09-15-03-05-04.png" />
 
 ### 🤝 Contributing
 Contributions are welcome! This is an educational project, so we particularly appreciate:
