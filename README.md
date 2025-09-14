@@ -107,7 +107,7 @@ The synthetic dataset is generated with a logical pattern:
 - AND have a combined score (study + 0.5*sleep) > 9
 - Are more likely to pass (with some noise added for realism)
 
-<img src="https://i.postimg.cc/1mWSGKJk/Screenshot-from-2025-09-15-03-05-04.png" width="500" />
+<img src="https://i.postimg.cc/1mWSGKJk/Screenshot-from-2025-09-15-03-05-04.png" />
 
 ### 🤝 Contributing
 Contributions are welcome! This is an educational project, so we particularly appreciate:
