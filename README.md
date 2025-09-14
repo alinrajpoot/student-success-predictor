@@ -101,6 +101,7 @@ The model uses a simple neural network with:
 - Input layer: 2 neurons (study hours, sleep hours)
 - Hidden layers: 16 and 8 neurons with ReLU activation
 - Output layer: 1 neuron with sigmoid activation for binary classification
+
 The synthetic dataset is generated with a logical pattern:
 - Students who study more than 5 hours
 - AND sleep more than 6 hours
